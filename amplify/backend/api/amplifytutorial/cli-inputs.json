@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytutorial",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/mlongstreth/Documents/github/amplify-tutorial/amplify/backend/api/amplifytutorial/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
